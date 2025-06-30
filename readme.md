@@ -24,7 +24,7 @@ The workflow uses the Julep AI platform to generate all content without relying 
 
 ## Requirements
 
-* Python 3.7+
+* Python
 * Julep API key
 
 ## Installation
@@ -32,7 +32,7 @@ The workflow uses the Julep AI platform to generate all content without relying 
 1. Install dependencies:
 
    ```
-   pip install julep pyyaml
+   pip install julep 
    ```
 
 2. Create a `config.py` file with your API key:
